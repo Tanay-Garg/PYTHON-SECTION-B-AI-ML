@@ -1,0 +1,8 @@
+13/11/2025
+Meal Name	Calories
+-------------------------
+Breakfast	650
+Snacks		325
+Lunch		560
+Dinner		600
+Total:		2135Average:	533.75STATUS: SUCCESS! Your total calories intake in under your total daily limit!
